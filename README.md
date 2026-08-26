@@ -1,4 +1,4 @@
-# Hi 👋, I'm Dharshan Mv
+# Hi 👋, I'm Dharshan MV
 
 🎓 Undergraduate at **NIT Trichy**
 💡 Interested in **Software Development, Full-Stack Development & Problem Solving**
