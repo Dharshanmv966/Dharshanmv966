@@ -12,17 +12,18 @@
 * 🎓 Undergraduate student at **National Institute of Technology, Tiruchirappalli**
 * 💻 Interested in **Software Development and Full-Stack Development**
 * 🧠 Building a strong foundation in **Data Structures & Algorithms**
-* 🌐 Experienced with modern web technologies and full-stack application development
-* 🛠️ Enjoy building practical projects and learning through hands-on development
+* 🌐 Building full-stack applications using modern web technologies
+* 🛠️ Enjoy turning ideas into practical, functional projects
 * 🤖 Currently exploring the fundamentals of **Machine Learning**
-* 🐳 Learning about **Docker and containerized application development**
-* 📚 Always looking to learn new technologies and improve my problem-solving skills
+* 🐳 Learning **Docker and containerized application development**
+* 📚 Continuously learning new technologies and improving my problem-solving skills
+* 🔧 Interested in writing clean, maintainable, and practical software
 
 ---
 
 ## 🌐 Connect With Me
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge\&logo=instagram\&logoColor=white)](https://www.instagram.com/dharshan_mv_966/) 
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge\&logo=instagram\&logoColor=white)](https://www.instagram.com/dharshan_mv_966/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:dharshanmvnitt@gmail.com)
 
 ---
@@ -50,16 +51,16 @@
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square\&logo=nodedotjs\&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square\&logo=express\&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_APIs-02569B?style=flat-square\&logo=fastapi\&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST_APIs-02569B?style=flat-square\&logo=postman\&logoColor=white)
 
-### 🗄️ Databases
+### 🗄️ Databases & ORM
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square\&logo=mongodb\&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square\&logo=postgresql\&logoColor=white)
 ![Drizzle ORM](https://img.shields.io/badge/Drizzle_ORM-C5F74F?style=flat-square\&logo=drizzle\&logoColor=111111)
 ![Neon](https://img.shields.io/badge/Neon-00E599?style=flat-square\&logo=neon\&logoColor=black)
 
-### 🔐 Services & Tools
+### 🔐 Services & Development Tools
 
 ![Clerk](https://img.shields.io/badge/Clerk-6C47FF?style=flat-square\&logo=clerk\&logoColor=white)
 ![ImageKit](https://img.shields.io/badge/ImageKit-00ABFF?style=flat-square\&logo=imagekit\&logoColor=white)
@@ -80,7 +81,7 @@
 
 ## 🧠 DSA & Problem Solving
 
-* Strong focus on building fundamentals in **Data Structures & Algorithms**
+* Building a strong foundation in **Data Structures & Algorithms**
 * Practicing problems involving:
 
   * Arrays & Strings
@@ -92,13 +93,14 @@
   * Dynamic Programming
 * Focused on understanding **time and space complexity**
 * Regularly participating in programming contests
-* Continuously improving problem-solving speed and approach
+* Improving problem-solving speed, accuracy, and approach
+* Working toward developing strong fundamentals for software engineering interviews
 
 ---
 
 ## 🤖 Machine Learning
 
-Currently learning the fundamentals of **Machine Learning** and exploring:
+Currently exploring the fundamentals of **Machine Learning** and building a foundation in:
 
 * Python for Machine Learning
 * NumPy & Pandas
@@ -108,7 +110,7 @@ Currently learning the fundamentals of **Machine Learning** and exploring:
 * Regression & classification
 * Model evaluation
 * Feature engineering
-* Practical applications of Machine Learning
+* Understanding practical Machine Learning workflows
 
 ---
 
@@ -120,9 +122,10 @@ A modern full-stack creative workspace built using **Next.js, React, TypeScript,
 
 The application includes a dedicated studio workbench, interactive controls and previews, authentication, generation history, database persistence, media handling, and a modern responsive interface.
 
-**Tech:** `Next.js` `React` `TypeScript` `PostgreSQL` `Drizzle` `Clerk` `ImageKit` `Sentry` `GSAP` `Motion`
+**Tech:**
+`Next.js` `React` `TypeScript` `Tailwind CSS` `PostgreSQL` `Drizzle ORM` `Clerk` `ImageKit` `Sentry` `GSAP` `Motion`
 
-[View Repository →](https://github.com/Dharshanmv966/luma-studio)
+[![View Luma Studio](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/Dharshanmv966/luma-studio)
 
 ### 🛍️ Forever E-Commerce
 
@@ -130,7 +133,8 @@ A full-stack e-commerce application developed to explore real-world web applicat
 
 The project includes product browsing, product details, shopping cart functionality, authentication, order-related functionality, and frontend-backend integration.
 
-**Tech:** `React` `JavaScript` `Node.js` `Express.js` `MongoDB` `Tailwind CSS` `Vite`
+**Tech:**
+`React` `JavaScript` `Node.js` `Express.js` `MongoDB` `Tailwind CSS` `Vite`
 
 ---
 
@@ -142,7 +146,85 @@ The project includes product browsing, product details, shopping cart functional
 * ⚙️ Backend architecture and API design
 * 🗄️ Database design and optimization
 * 🌐 Modern **Next.js** development
-* 💻 Writing clean and maintainable software
+* 💻 Clean and maintainable software development
+* 🔍 Improving understanding of real-world application architecture
+
+---
+
+## 🧭 Development Focus
+
+```text
+                           SOFTWARE DEVELOPMENT
+                                    │
+             ┌──────────────────────┼──────────────────────┐
+             │                      │                      │
+             ▼                      ▼                      ▼
+      PROBLEM SOLVING         FULL-STACK DEVELOPMENT    MACHINE LEARNING
+             │                      │                      │
+      ┌──────┴──────┐        ┌──────┼──────┐        ┌──────┴──────┐
+      │             │        │      │      │        │             │
+      ▼             ▼        ▼      ▼      ▼        ▼             ▼
+    DSA         Algorithms  Frontend Backend  DB   Python       ML Concepts
+      │             │        │      │      │        │             │
+      │             │        │      │      │        ├── NumPy    │
+      │             │        │      │      │        ├── Pandas   │
+      │             │        │      │      │        ├── Data     │
+      │             │        │      │      │        │   Analysis │
+      │             │        │      │      │        ├── Regression
+      │             │        │      │      │        └── Classification
+      │             │        │      │      │
+      ▼             ▼        ▼      ▼      ▼
+   Arrays        Complexity React Node.js MongoDB
+   Strings       Analysis   Next   Express  PostgreSQL
+   Hashing                  Tailwind Drizzle
+   Recursion
+   Trees
+   Graphs
+   Dynamic
+   Programming
+                              │
+                              ▼
+                    DEVELOPMENT & DEPLOYMENT
+                              │
+               ┌──────────────┼──────────────┐
+               │              │              │
+               ▼              ▼              ▼
+             Docker        Git/GitHub       Vercel
+               │              │              │
+               ▼              ▼              ▼
+         Containerization   Version       Deployment
+                            Control
+                              │
+                              ▼
+                         FUTURE FOCUS
+                              │
+                    ┌─────────┴─────────┐
+                    │                   │
+                    ▼                   ▼
+               AWS CLOUD          SYSTEM DESIGN
+                    │                   │
+             ┌──────┼──────┐            │
+             │      │      │            │
+             ▼      ▼      ▼            ▼
+          Compute Storage Networking  Scalable
+                                    Applications
+```
+
+My development focus is centered around combining **strong problem-solving fundamentals** with practical software development.
+
+I am currently strengthening my full-stack development skills while building a foundation in Machine Learning and exploring modern development and deployment practices.
+
+---
+
+## 🌱 Beyond Code
+
+* 📚 Continuous learning through hands-on projects and technical exploration
+* 🧩 Enjoy breaking down complex problems into smaller, manageable parts
+* 🛠️ Prefer learning technologies by building practical applications
+* 🔍 Interested in understanding how software works beyond just writing code
+* 🤝 Open to collaborating on interesting software projects
+* 💡 Interested in exploring new ideas and turning them into working solutions
+* 🚀 Focused on continuous improvement in both technical and problem-solving skills
 
 ---
 
@@ -152,19 +234,18 @@ The project includes product browsing, product details, shopping cart functional
 * Become a stronger **Software Developer** with solid full-stack development skills
 * Build more complete and production-oriented applications
 * Develop a strong foundation in **Machine Learning** and eventually integrate ML into practical applications
-* Learn **AWS Cloud** and understand how modern applications are deployed and scaled in cloud environments
-* Gain practical knowledge of cloud services, deployment, networking, storage, and infrastructure
+* Learn **AWS Cloud** from the fundamentals and understand how modern applications are deployed and scaled
+* Gain practical knowledge of cloud services, deployment, networking, storage, security, and infrastructure
 * Improve my understanding of backend systems, databases, APIs, and system design
+* Learn how to design and build scalable applications
 * Continue learning new technologies through hands-on projects
+* Build software that combines strong engineering fundamentals with practical real-world applications
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Activity
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Dharshanmv966&show_icons=true&hide_border=true&rank_icon=github" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dharshanmv966&layout=compact&hide_border=true" height="165"/>
-</p>
+I use GitHub to document my projects, experiment with different technologies, and continuously improve my development skills.
 
 ---
 
